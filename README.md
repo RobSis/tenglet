@@ -1,8 +1,5 @@
 TENGlet
 =======
-Robert Siska
-v0.9
-:Date: December 2009
 
 What is it?
 -----------
@@ -10,7 +7,7 @@ What is it?
 'TENGlet' is program that creates large characters out of ordinary screen
  characters
 
------------------------------------------------------------------
+```
 
                             .dP'      `Yb                
                     db    dP'          88          db    
@@ -22,7 +19,7 @@ What is it?
     `Yb...dP           88                         .dP'   
       `"""'            88                       .dP'  (like this)
                        Y8.
------------------------------------------------------------------
+```
 
 If it sounds familiar, than you probably know about FIGlet.
 FIGlet is great tool, which I don't want to replace with my poor code.
@@ -47,23 +44,23 @@ font! Format is very easy.
 
 First line is header:
 
---------------------
+```
 tlf HEIGHT MAX_WIDTH
---------------------
+```
 
 than characters follows. Each character is defined by header and body.
 Header is:
 
-----------------------------------
+```
 (. || alt/(0-255)]) LEFT_SHIFT [*]
-----------------------------------
+```
 
 for example:
 
------------------
+```
 alt/0032 0 #space
 j 0 #lambe
------------------
+```
 
 Body of character follows. It's just HEIGHT*line ended with '@' sign.
 No empty lines are allowed in font file.
@@ -73,14 +70,14 @@ Input
 Unless you remember all keys from Dan Smith's keymapping, you will need
 transcriber. There is plenty of them on net. For example:
 
-oTT - http://tengwar.art.pl/tengwar/ott/english.php::
+* oTT - http://tengwar.art.pl/tengwar/ott/english.php
      which runs online.
 
-YaTT - http://linux.fjfi.cvut.cz/~nemec/tengwar/::
+* YaTT - http://linux.fjfi.cvut.cz/~nemec/tengwar/
      from my beloved home country :)
 
-Tengwar Scribe - http://at.mansbjorkman.net/tengscribe.htm::
+* Tengwar Scribe - http://at.mansbjorkman.net/tengscribe.htm
      best known. Check also ModeEditor.
 
-TENG http://tengwarformal.limes.com.pl/teng/::
+* TENG http://tengwarformal.limes.com.pl/teng/
      my personal favorite. It is text filter (same as my program) and supports TengScribe modes.
