@@ -1,0 +1,2322 @@
+tlf 10 20
+alt/32 0 #space
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+1 0 #tinco
+           @
+           @
+           @
+`Yb.d888b  @
+ 88'    8Y @
+ 88     8P @
+ 88   ,dP  @
+ 88        @
+ 88        @
+.8P        @
+2 0 #ando
+               @
+               @
+               @
+`Yb.d88b d88b  @
+ 88'   8Y   8b @
+ 88    8P   88 @
+ 88  ,dP  ,dP  @
+ 88            @
+ 88            @
+.8P            @
+3 0 #sule
+`Yb       @
+ 88       @
+ 88       @
+ 88.d88b. @
+ 88P'  Y8 @
+ 88    8P @
+.88  bdP  @
+          @
+          @
+          @
+4 0 #anto
+`Yb            @
+ 88            @
+ 88            @
+ 88.d88b d88b  @
+ 88P'  Y8   8b @
+ 88    8P   88 @
+.88  bdP  bdP  @
+               @
+               @
+               @
+5 0 #numen
+               @ 
+               @
+               @
+`Yb d88b d88b  @
+ 88P   8Y   8b @
+ 88    8P   88 @
+.8P  bdP  bdP  @
+               @
+               @
+               @
+6 0 #ore
+          @
+          @
+          @
+`Yb d88b  @
+ 88P   8Y @
+ 88    8P @
+.8P  bdP  @
+          @
+          @
+          @
+7 0 #romen
+          @
+          @
+          @
+`Yb    dP'@
+  Yb  dP  @
+   YbdP   @
+   .8P    @
+ dP'  b   @
+ Y.  ,P   @
+  `""'    @
+8 0 #silme
+         @
+      .dY@
+    ,dP' @
+  .dP'   @
+ dP      @
+88     . @
+`Yb...dP @
+  `"""'  @
+         @
+         @
+9 0 #hyarmen
+`Yb.        @
+  `Yb       @
+    Yb      @
+     Yb     @
+    dPYb    @
+  ,dP  Yb   @
+.dP'    `Yb.@
+            @
+            @
+            @
+q 0 #parma
+           @
+           @
+           @
+`Yb.d888b  @
+ 88'    8Y @
+ 88     8P @
+ 88baoad8b.@
+ 88        @
+ 88        @
+.8P        @
+w 0 #unque
+               @
+               @
+               @
+`Yb d88b d88b  @
+ 88P   8Y   8b @
+ 88    8P   8Y @
+ 88baod88bad8b.@
+ 88            @
+ 88            @
+.8P            @
+e 0 #formen
+`Yb         @
+ 88         @
+ 88         @
+ 88.d88b.   @
+ 88P'   Y8  @
+ 88     8P  @
+.88baoad88b.@
+            @
+            @
+            @
+r 0 #ampa
+`Yb            @
+ 88            @
+ 88            @
+ 88 d88b d88b  @
+ 88P   8Y   8b @
+ 88    8P   88 @
+.88baod8baodPb.@
+               @
+               @
+               @
+t 0 #malta
+               @
+               @
+               @
+`Yb d88b d88b  @
+ 88P   88   8b @
+ 88    8P   88 @
+.88baod8baod8b.@
+               @
+               @
+               @
+y 0 #vala
+           @
+           @
+           @
+`Yb.d888b  @
+ 88'    8Y @
+ 88     8P @
+.88baoad8b.@
+           @
+           @
+           @
+u 0 #arda
+          @
+          @
+          @
+`Yb    dP'@
+  Yb  dP  @
+ .dYbdP   @
+dP .8P    @
+ dP'  b   @
+ Y.  ,P   @
+  `""'    @
+i 0 #silme nuquerna
+         @
+         @
+         @
+.d8P"7b. @
+8'   `Yb @
+Yb.'  88 @
+    .dP  @
+  .dP'   @
+.dP'     @
+         @
+o 0 #hwesta sindarinwa
+       d8'    @
+       88     @
+       88     @
+  dP""Yb8     @
+ 8Y    88     @
+ de    d8     @
+ `YbwwdPYb88h,@
+            g"@
+          "'  @
+              @
+a 0 #calma
+         @
+         @
+         @
+.dP'  dP'@
+88    88 @
+Y8   .88 @
+`Y88P'88 @
+      88 @
+      88 @
+      Y8.@
+s 0 #anga
+              @
+              @
+              @
+.dP' .dP'  dP'@
+88   88    88 @
+Y8   Y8   .88 @
+`Y88P`Y88P'88 @
+           88 @
+           88 @
+           Y8.@
+d 0 #noldo
+        d8'@
+        88 @
+        88 @
+ .dP'   88 @
+ 88     88 @
+ Y8    .88 @
+  `Y88P'Y8.@
+           @
+           @
+           @
+f 0 #anca
+           d8'@
+           88 @
+           88 @
+.dP' .dP'  88 @
+88   88    88 @
+Y8   Y8   .88 @
+`Y88P`Y88P'Y8.@
+              @
+              @
+              @
+g 0 #nwalme
+              @
+              @
+              @
+.dP' .dP'  d8'@
+88   88    88 @
+Y8   Y8   .88 @
+`Y88P`Y88P'Y8.@
+              @
+              @
+              @
+h 0 #ara
+          @
+          @
+          @
+ .dP'  d8'@
+ 88    88 @
+ Y8   .88 @
+ `Y88P'Y8.@
+          @
+          @
+          @
+j 0 #lambe          
+           @
+           @
+           @
+`Y8888888b.@
+   .dP'    @
+ ,dP       @
+ 88     .  @
+ `Yb...dP  @
+   `"""'   @
+           @
+k 0 #esse nuquerna (1)
+        @
+ d888b  @
+C    `Yb@
+`b.   88@
+.Y888bd @
+8'   `Yb@
+Yb.   88@
+    .dP @
+  .dP'  @
+.dP'    @
+l 0 #yanta
+            @
+            @
+    ga      @
+     Yb.    @
+    dPYb    @
+  ,dP  Yb   @
+.dP'    `Yb.@
+            @
+            @
+            @
+z 0 #quesse
+            @
+            @
+            @
+`YbanmmnmdP'@
+  dY     88 @
+  Y8    .88 @
+  `Y888P'88 @
+         88 @
+         88 @
+         Y8.@
+x 0 #ungwe
+               @
+               @
+               @
+`Ybanmadbanm8P'@
+ dY   dY    88 @
+ Y8   Y8   .88 @
+ `Y88P`Y88P'88 @
+            88 @
+            88 @
+            Y8.@
+c 0 #hwesta
+         d8'@
+         88 @
+         88 @
+`Ybaaaaaa88 @
+  dP'    88 @
+  Y8    .88 @
+  `Y888P'Y8.@
+            @
+            @
+            @
+v 0 #unque
+            d8'@
+            88 @
+            88 @
+`Ybaamndbanm88 @
+ d8'  dY    88 @
+ Y8   Y8   .88 @
+ `Y88P`Y88P'Y8.@
+               @
+               @
+               @
+b 0 #nwalme
+               @
+               @
+               @
+`Ybaamndbanm8P'@
+ dY   8Y    88 @
+ Y8   Y8   .88 @
+ `Y88P`Y88P'Y8.@
+               @
+               @
+               @
+n 0 #wilya
+            @
+            @
+            @
+`Ybaaaaaad8'@
+  dP'    88 @
+  Y8    .88 @
+  `Y888P'Y8.@
+            @
+            @
+            @
+m 0 #alda
+             @
+             @
+             @
+`Y8888888b.  @
+   .dP'      @
+ ,dP         @
+ 88          @
+ `Yb...db88h,@
+   `"""'   g"@
+         "'  @
+, 0 #esse nuquerna (2)
+         @
+         @
+         @
+.d888b.  @
+8'   `Yb @
+Yb.   88 @
+    .dP  @
+    `Yb. @
+       Y @
+   Yb.d" @
+. 0 #ure
+        @
+        @
+        @
+ dP""Yb @
+8Y    Y8@
+de    di@
+`YbwwdY @
+        @
+        @
+        @
+` 0 #telco
+     @
+     @
+     @
+ 'Yb @
+  88 @
+  88 @
+ .8P @
+     @
+     @
+     @
+0 9 #tilda (upper)
+   d88ba@
+   '    @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+p 9 #tilda (lower)
+        @
+        @
+   d88ba@
+   '    @
+        @
+        @
+        @
+        @
+        @
+        @
+; 9 #tilda (below upper)
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+ d888bao@
+        @
+/ 9 #tilda (below lower)
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+ d888bao@
+- 0 #colon
+    @
+    @
+    @
+ db @
+    @
+    @
+    @
+ db @
+    @
+    @
+[ 10
+        @
+        @
+--------@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+{ 14
+            @
+            @
+------------@
+            @
+            @
+            @
+            @
+            @
+            @
+            @
+' 8
+       @
+       @
+       @
+       @
+       @
+       @
+       @
+       @
+-------@
+       @
+" 12
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+----------@
+          @
+_ 2 
+      @
+      @
+      @
+      @
+      @
+      @
+ bem. @
+   'C @
+    B @
+'kdP' @
++ 4
+       @
+       @
+       @
+       @
+       @
+       @
+  bem. @
+    'C @
+     B @
+ 'kdP' @
+| 10
+       @
+       @
+       @
+       @
+       @
+       @
+     g @
+   .dY @
+ jdY   @
+'Yb.d  @
+} 7
+       @
+       @
+       @
+       @
+       @
+       @
+       @
+  ef   @
+ ib    @
+ Yfbd' @
+= 0
+     @
+     @
+     @
+     @
+     @
+ db  @
+     @
+     @
+     @
+     @
+] 0 #parma
+        @
+        @
+        @
+ dP""Yb @
+8Y      @
+de      @
+`YbwwdY @
+        @
+        @
+        @
+\ 0 #tilda
+             @
+             @
+             @
+ ,d88b.    , @
+'    `Y88P'  @
+             @
+             @
+             @
+             @
+             @ 
+~ 0
+    @
+    @
+    @
+`Yb @
+ 88 @
+ 88 @
+ 88 @
+ 88 @
+ 88 @
+.8P @
+! 0 
+`Yb       @
+ 88       @
+ 88       @
+ 8b.d888b @
+ 88'    8Y@
+ 88     8P@
+ 88   ,dP @
+ 88       @
+ 88       @
+.8P       @
+@ 0 
+`Yb            @
+ 88            @
+ 88            @
+ 8b.d88b d88b  @
+ 88'   8Y   8b @
+ 88    8P   88 @
+ 88  ,dP  ,dP  @
+ 88            @
+ 88            @
+.8P            @
+Q 0      
+`Yb        @
+ 88        @
+ 88        @
+ 88.d888b  @
+ 88'    8Y @
+ 88     8P @
+ 88baoad8b.@
+ 88        @
+ 88        @
+.8P        @
+W 0 
+`Yb            @
+ 88            @
+ 88            @
+ 88 d88b d88b  @
+ 88P   8Y   8b @
+ 88    8P   8Y @
+ 88baod88bad8b.@
+ 88            @
+ 88            @
+.8P            @
+A 0 
+      dP'@
+      88 @
+      88 @
+.dP'  88 @
+88    88 @
+Y8   .88 @
+`Y88P'88 @
+      88 @
+      88 @
+      Y8.@
+S 0 
+           dP'@
+           88 @
+           88 @
+.dP' .dP'  88 @
+88   88    88 @
+Y8   Y8   .88 @
+`Y88P`Y88P'88 @
+           88 @
+           88 @
+           Y8.@
+Z 0 
+         dP'@
+         88 @
+         88 @
+`YbanmmnmB8 @
+  dY     88 @
+  Y8    .88 @
+  `Y888P'88 @
+         88 @
+         88 @
+         Y8.@
+X 0 
+            dP'@
+            88 @
+            88 @
+`YbanmadbanmB8 @
+ dY   dY    88 @
+ Y8   Y8   .88 @
+ `Y88P`Y88P'88 @
+            88 @
+            88 @
+            Y8.@
+* 0 
+         @
+   .dP'  @
+ .dP'    @
+.8Y      @
+88       @
+Y8   Yb  @
+88    'J @
+`Yb...dP @
+  `"""'  @
+         @
+I 0 
+         @
+         @
+         @
+.d888b.  @
+8'   `Yb @
+Yb.   8Y @
+      d8 @
+      8Y @
+    .dP  @
+  .dP'   @
+K 0 
+         @
+   .dP'  @
+ .dP'    @
+.8Y      @
+ Yb,     @
+d8P   Yb @
+88     J @
+`Yb...dP @
+  `"""'  @
+         @
+< 0 
+       d8' @
+       88  @
+       88  @
+  dP""Yb8  @
+ 8Y    88  @
+ de    d8  @
+d88baod88. @
+           @
+           @
+           @
+) 12 
+d888boo,ood@
+           @
+           @
+           @
+           @
+           @
+           @
+           @
+           @
+           @
+P 12 
+           @
+d888boo,ood@
+           @
+           @
+           @
+           @
+           @
+           @
+           @
+           @
+: 12 
+           @
+           @
+           @
+           @
+           @
+           @
+           @
+           @
+d888bood88b@
+           @
+? 12 
+           @
+           @
+           @
+           @
+           @
+           @
+           @
+           @
+           @
+d888bood88b@
+# 10 #tehta a (1)
+   db   @
+db    db@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+E 9 #tehta a (2)
+   db   @
+db    db@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+D 10 #tehta a (3)
+   db   @
+db    db@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+C 6 #tehta a (4)
+   db   @
+db    db@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+$ 9 #tehta e (1)
+  .dP'@
+dP'   @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+R 7 #tehta e (2)
+  .dP'@
+dP'   @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+F 10 #tehta e (3)
+  .dP'@
+dP'   @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+V 5 #tehta e (4)
+  .dP'@
+dP'   @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+% 9 #tehta i (1)
+    @
+ db @
+    @
+    @
+    @
+    @
+    @
+    @
+    @
+    @
+T 7 #tehta i (2)
+    @
+ db @
+    @
+    @
+    @
+    @
+    @
+    @
+    @
+    @
+G 6 #tehta i (3)
+    @
+ db @
+    @
+    @
+    @
+    @
+    @
+    @
+    @
+    @
+B 4 #tehta i (4)
+    @
+ db @
+    @
+    @
+    @
+    @
+    @
+    @
+    @
+    @
+^ 10 #tehta o (1)
+  .dP"Yb@
+dP'   d'@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+Y 8 #tehta o (2)
+  .dP"Yb @
+dP'   d' @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+H 7 #tehta o (3)
+  .dP"Yb@
+dP'   d'@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+N 6 #tehta o (4)
+  .dP"Yb@
+dP'   d'@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+& 11 #tehta u (1)
+dP"Yb.  @
+`b   'Yb@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+U 9 #tehta u (2)
+dP"Yb.  @
+`b   'Yb@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+J 8 #tehta u (3)
+dP"Yb.  @
+`b   'Yb@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+M 6 #tehta u (4)
+dP"Yb.  @
+`b   'Yb@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+( 9 
+   @
+   @
+   @
+   @
+   @
+   @
+   @
+   @
+db @
+   @
+O 7 
+   @
+   @
+   @
+   @
+   @
+   @
+   @
+   @
+db @
+   @
+L 8
+    @
+    @
+    @
+    @
+    @
+    @
+ db @
+    @
+    @
+    @
+> 5 
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+db  db@
+  db  @
+      @
+alt/0240 0 #number 10  ####NUMBERS####
+        @
+        @
+ ,d88b  @
+     `Y @
+      8 @
+ b   .8 @
+ `Y8P'  @
+        @
+        @
+        @     
+alt/241 0 #number one
+         @
+         @
+         @
+'Y8888b. @
+ .P'     @
+ 8    b  @
+ `YbwP'  @
+         @
+         @
+         @
+alt/0242 0 #number two
+             @
+             @
+             @
+'Y88888888b. @
+ .P' .P'     @
+ 8   8    b  @
+ `Ybd`YbwP'  @
+             @
+             @
+             @
+alt/0243 0 #number three
+                 @
+                 @
+                 @
+'Y888888888888b. @
+ .P' .P' .P'     @
+ 8   8   8    b  @
+ `Ybd`Ybd`YbwP'  @
+                 @
+                 @
+                 @
+alt/0244 0 #number four
+`Yb     @
+  `8    @
+   8    @
+   8    @
+   8    @
+  .P    @
+ .P'    @
+ 8    b @
+ `YbwP' @
+        @
+alt/0245 0 #number five
+`Yb          @
+  `8         @
+   8         @
+   8888888b. @
+   8 .P'     @
+  .P 8    b  @
+ .P' `YbwP'  @
+ 8    b      @
+ `YbwP'      @
+             @
+alt/0246 0 #number six            
+`Yb              @
+  `8             @
+   8             @
+   88888888888b. @
+   8 .P' .P'     @
+  .P 8   8    b  @
+ .P' `Ybd`YbwP'  @
+ 8    b          @
+ `YbwP'          @
+                 @
+alt/0247 0 #number seven                
+  `Yb  @
+    `8 @
+     8 @
+     8 @
+     8 @
+     8 @
+ ,   8 @
+d   .8 @
+`YbwP' @
+       @
+alt/0248 0 #number eight    
+  `Yb         @
+    `8        @
+     8        @
+     8d"Yb.   @
+     8    8   @
+     8  .dP   @
+ ,   888888b. @
+d   .8        @
+`YbwP'        @
+              @
+alt/0249 0 #number nine
+  `Yb              @
+    `8             @
+     8             @
+     8d"Yb.d"Yb.   @
+     8    8    8   @
+     8  .dP  .dP   @
+ ,   88888888888b. @
+d   .8             @
+`YbwP'             @
+                   @
+alt/0250 0 #number 10                   
+ ,d88b  @
+     `Y @
+      8 @
+      8 @
+      8 @
+ b   .8 @
+ `Y8P'  @
+        @
+        @
+        @
+alt/0251 0 #number 11
+ ,d88b  @
+     `Y @
+      8 @
+      8 @
+      8 @
+ b   .8 @
+ `Y8PY, @
+      b @
+ b   .8 @
+ `Y8P'  @
+alt/0152 8 0 #wide, base-12 id
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+ _      @
+(_)     @
+        @
+alt/0153 8 #centered, base-12 id
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+   _    @
+  (_)   @
+        @
+alt/0168 8 0 #narrow, base-12 id
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+    _   @
+   (_)  @
+        @
+alt/0169 8 0 #very narrow, base-12 id
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+     _  @
+    (_) @
+        @
+alt/0170 8 ##Additional tehta symbols (above)###
+db  db  @
+  db    @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+alt/0173 1 #reverse triple over-dots
+    @
+    @
+    @ 
+ db @
+    @
+    @
+ db @
+    @
+    @
+    @
+alt/0175 8 
+ db  db @
+   db   @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+alt/0181 5
+db  db@
+  db  @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+alt/0212 9 # double over-dots
+      @
+db db @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+alt/0213 8
+      @
+db db @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+alt/0214 6
+      @
+db db @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+alt/0215 5
+      @
+db db @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+alt/0216 9 #over-chevron
+Ob  j @
+ IgJ  @
+  '   @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+alt/0217 7 
+Ob  j @
+ IgJ  @
+  '   @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+alt/0218 6 
+Ob  j @
+ IgJ  @
+  '   @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+alt/0219 5 
+Ob  j @
+ IgJ  @
+  '   @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+alt/0220 9  #over-circumflex
+  .db.  @
+.dP'`Yb.@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @     
+alt/0221 8 
+  .db.  @
+.dP'`Yb.@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @     
+alt/0222 7 
+  .db.  @
+.dP'`Yb.@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @     
+alt/0223 6 
+  .db.  @
+.dP'`Yb.@
+        @
+        @
+        @
+        @
+        @
+        @
+        @
+        @     
+alt/0224 11 #reverse over-curl
+dP"Yb.   @
+`b   'Yb @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+alt/0225 10
+dP"Yb.   @
+`b   'Yb @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+alt/0226 9
+dP"Yb.   @
+`b   'Yb @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+alt/0227 7
+dP"Yb.   @
+`b   'Yb @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+alt/0232 13 #over-twist
+'kwmmmmwp @
+        " @
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+alt/0233 11
+'kwmmmmwp @
+        " @
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+alt/0234 10
+'kwmmmmwp @
+        " @
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+alt/0235 6
+'kwmwp @
+     " @
+       @
+       @
+       @
+       @
+       @
+       @
+       @
+       @
+alt/0236 12 #extra hi bars
+--------- @
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+alt/0238 8 
+------ @
+       @
+       @
+       @
+       @
+       @
+       @
+       @
+       @
+       @
+alt/0200 8 #Single Under-Dot
+  @
+  @
+  @
+  @
+  @
+  @
+  @
+  @
+db@
+  @
+alt/0201 6 
+  @
+  @
+  @
+  @
+  @
+  @
+  @
+  @
+db@
+  @
+alt/0202 5 
+  @
+  @
+  @
+  @
+  @
+  @
+  @
+  @
+db@
+  @
+alt/0203 3 
+  @
+  @
+  @
+  @
+  @
+  @
+  @
+  @
+db@
+  @
+alt/0204 10 #Double Under-Dots
+     @
+     @
+     @
+     @
+     @
+     @
+     @
+     @
+db db@
+     @
+alt/0205 8 
+     @
+     @
+     @
+     @
+     @
+     @
+     @
+     @
+db db@
+     @
+alt/0206 7 
+     @
+     @
+     @
+     @
+     @
+     @
+     @
+     @
+db db@
+     @
+alt/0207 5 
+     @
+     @
+     @
+     @
+     @
+     @
+     @
+     @
+db db@
+     @
+alt/0208 9 #Reverse Triple Under-Dots:
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+db  db@
+  db  @
+alt/0209 8 
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+db  db@
+  db  @
+alt/0210 7
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+db  db@
+  db  @
+alt/0211 5
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+db  db@
+  db  @
+alt/0228 9 #Under-Curl  
+     @
+     @
+     @
+     @
+     @
+     @
+   ,d@
+ e7" @
+ib   @
+Yfbd'@
+alt/0229 7
+     @
+     @
+     @
+     @
+     @
+     @
+   ,d@
+ e7" @
+ib   @
+Yfbd'@
+alt/0230 6
+     @
+     @
+     @
+     @
+     @
+     @
+   ,d@
+ e7" @
+ib   @
+Yfbd'@
+alt/0231 7
+     @
+     @
+     @
+     @
+     @
+     @
+   ,d@
+ e7" @
+ib   @
+Yfbd'@
+alt/0252 8 #under-carier
+  @
+  @
+  @
+  @
+  @
+  @
+dY@
+88@
+88@
+8P@
+alt/0253 5
+  @
+  @
+  @
+  @
+  @
+  @
+dY@
+88@
+88@
+8P@
+alt/0254 4
+  @
+  @
+  @
+  @
+  @
+  @
+dY@
+88@
+88@
+8P@
+alt/0255 3
+  @
+  @
+  @
+  @
+  @
+  @
+  @
+.d@
+88@
+8P@
+alt/0137 11 #Single Under-Accent
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+  .dP'@
+dP'   @
+alt/0138 8
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+  .dP'@
+dP'   @
+alt/0139 7
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+  .dP'@
+dP'   @
+alt/0159 6
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+  .dP'@
+dP'   @
+alt/0131 11 #Double Under-Accent
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+  .dP'.dP@
+dP'.dP'  @
+alt/0132 10
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+  .dP'.dP@
+dP'.dP'  @
+alt/0133 9
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+  .dP'.dP@
+dP'.dP'  @
+alt/0134 8
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+         @
+  .dP'.dP@
+dP'.dP'  @
+alt/0145 12 #Under-Tail
+     @
+     @
+     @
+     @
+     @
+     @
+     @
+    d@
+   a'@
+'hd' @
+alt/0146 10
+     @
+     @
+     @
+     @
+     @
+     @
+     @
+    d@
+   a'@
+'hd' @
+alt/0147 9
+     @
+     @
+     @
+     @
+     @
+     @
+     @
+    d@
+   a'@
+'hd' @
+alt/0148 6
+     @
+     @
+     @
+     @
+     @
+     @
+     @
+    d@
+   a'@
+'hd' @
+alt/0237 12 #extra low bars
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+          @
+----------@
+alt/0239 8
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+------@
+alt/0176 7 #Inside Tilde
+     @
+     @
+     @
+     @
+     @
+bodPk@
+     @
+     @
+     @
+     @
+alt/0184 7 #Inside Bar
+     @
+     @
+     @
+     @
+     @
+bowwa@
+     @
+     @
+     @
+     @
+alt/0180 8 #Inside Double Dots
+      @
+      @
+      @
+      @
+      @
+'db db@
+      @
+      @
+      @
+      @   
+alt/0130 7 #Inside Double Accents
+    @
+    @
+    @
+    @
+    @
+ y y@
+F F @
+    @
+    @
+    @
+alt/0192 0 #elvish question mark
+`b.a.  @
+ 8  `b @
+ 8  ,P @
+ 8,8.  @
+ 8  `b @
+ 8  .P @
+ 8,P'  @
+,P     @
+       @
+       @
+alt/0193 0 #elvish exlamation mark
+   @
+ d @
+iY @
+`Yb@
+  8@
+ jY@
+ 8'@
+"  @
+   @
+   @
+alt/0155 0 #Elvish Parenthesis 
+     ,d @
+ ,d8'88 @
+  88 88 @
+  88 88 @
+  88 88 @
+  88 88 @
+  8P "  @
+ d      @
+P'      @
+G,d     @
+alt/0194 -1 #Single Wide Tilde
+             @
+             @
+             @
+ ,d88b.    , @
+'    `Y88P'  @
+             @
+             @
+             @
+             @
+             @ 
+alt/0172 0 #Double Narrow Tilde
+          @
+          @
+          @
+ ,db.   , @
+'   `YP'  @
+ ,db.   , @
+'   `YP'  @
+          @
+          @
+          @ 
+alt/0136 -1 #Elvish Comma
+  @
+  @
+db@
+  @
+db@
+  @
+db@
+  @
+  @
+  @
+alt/0171 0 #Old English Double Front Quote
+ d8 d8@
+aP'aP'@
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+alt/0187 1 #Old English Double Back Quote
+      @
+      @
+      @
+      @
+      @
+      @
+      @
+ d8 d8@
+aP'aP'@
+      @
+alt/0174 0 #Modern Question Mark
+ ,d88b  @
+ d   `Y @
+ '    8 @
+    ,d' @
+   JY   @
+   "'   @
+   GD   @
+        @
+        @
+        @
+alt/0199 0 #Modern Exlamation Mark
+  ,d' @
+  88  @
+  88  @
+  88  @
+  8P  @
+      @
+  GP  @
+      @
+      @
+      @
+alt/0186 0 #Modern Period
+   @
+   @
+   @
+   @
+   @
+   @
+ db@
+   @
+   @
+   @
+alt/0195 0 #Modern Semi-Colon
+    @
+    @
+ db @
+ `' @
+    @
+    @
+ .d @
+ P' @
+    @
+    @
+alt/0185 0 #Modern Comma
+   @
+   @
+   @
+   @
+   @
+,d @
+P' @
+   @
+   @
+   @
+alt/0177 0 #Modern Font Quote
+ d7'@
+88  @
+    @
+    @
+    @
+    @
+    @
+    @
+    @
+    @
+alt/0178 0 #Modern Back Quote
+  88@
+.aP'@
+    @
+    @
+    @
+    @
+    @
+    @
+    @
+    @
+alt/0140 0 #Modern Front Parenthesis
+ .dP'@
+d8'  @
+8'   @
+8    @
+8.   @
+Y8.  @
+ `Yb.@
+     @
+     @
+     @
+alt/0156 0 #Modern Back Parenthesis
+`Yb. @
+  `8b@
+   `8@
+    8@
+   .8@
+  .8P@
+,dP' @
+     @
+     @
+     @
+alt/0196 0 #Alternate letter for quesse
+          @
+          @
+          @
+  dP""YbP'@
+ 8Y    88 @
+ de    d8 @
+.dYbwwwP8 @
+       88 @
+       88 @
+       Yb.@
+alt/0189 0 #Alternate letter for H (halla)
+`Yb @
+ 88 @
+ 88 @
+ 88 @
+ 88 @
+ 88 @
+.88 @
+    @
+    @
+    @ 
+alt/0188 0 #Alternate letter for 'schwa'
+          @
+          @
+          @
+ 'Y.dPGDY'@
+  88      @
+  88      @
+ .8P      @
+          @
+          @
+          @
+alt/0191 0 #Alternate letter for HW
+.d888b.  @
+8'   `Yb @
+Yb.   88 @
+     dP  @
+    dP   @
+  .dY    @
+ d' "8,  @
+df   '8  @
+ib    '8 @
+`Ybd   Yb@
+alt/019 0 #Alternate letter for HW ##FIX
+          @
+          @
+  .d888b. @
+ dP'   Y8 @
+ '     8P @
+      gP  @
+ YbomYkmp @
+          @
+          @
+          @
+alt/0179 0 #Alternate letter for HW
+         @
+         @
+.d888b.  @
+8'   `Yb @
+Yb.   d8 @
+      i8 @
+      8P @
+    gP'  @
+Ybblkmnp @
+         @
+alt/0149 0 #Old English letter for HW
+`Yb       @
+ 88       @
+ 88       @
+ 88.d88b. @
+ 88P'  Y8 @
+ 88    8P @
+.88   dP  @
+     dP   @
+   ,d'    @
+  dbomnma @
+alt/0150 0 #Old English letter for SC (sh)
+       ,gdP88'@
+    .dP'   88 @
+  ,d"      88 @
+.dP  .dP'  88 @
+88   88    88 @
+Y8   Y8   .88 @
+`Y88P`Y88P'Y8.@
+              @
+              @
+              @
+alt/0151 0 #Old English letter for '&'
+,d8887Yb @
+      88 @
+      88 @
+      88 @
+      88 @
+      88 @
+      88 @
+     dP  @
+  bdP'   @
+         @
+alt/0135 0 #Alternate letter for A
+        @
+        @
+        @
+ dP""Yb @
+8Y      @
+de      @
+`YbwwdY @
+     'F @
+     d  @
+        @
+alt/0154 0 #Alternate letter for MH
+                 @
+                 @
+                 @
+`Yb d88b d88b    @
+ 88P   88   8b   @
+ 88    8P   88   @
+.88baod8baod8b   @
+             8l  @
+          ,  Ji  @
+          'bdP   @
+alt/0166 0 #Old English letter for back-HT
+         d8'       @
+         88        @
+         88        @
+`Ybamnmmd88.d888b  @
+  88     88     8Y @
+  Y8    .88     8P @
+   `Y88P'88   ,dP  @
+         88        @
+         88        @
+        .8P        @
+alt/0167 0 #Old English letter for front-HT
+        d8'       @
+        88        @
+        88        @
+ .dP'   88.d888b  @
+ 88     88     8Y @
+ Y8    .88     8P @
+  `Y88P'88   ,dP  @
+        88        @
+        88        @
+       .8P        @
+alt/0161 2 #Alternate S-curl
+          @
+          @
+          @
+          @
+     g8k  @ 
+    d  `b @
+AboP'   i @
+     'bJ  @
+          @
+          @
+alt/0162 1 #Alternate S-curl
+        @
+        @
+        @     
+moyg8p  @
+     'b @
+   'bJ  @
+        @
+        @
+        @
+        @
+alt/0197 1 #Alternate S-curl
+       @
+       @
+       @
+       @
+  ,Yb. @  
+     8 @    
+AboodP @
+       @
+       @
+       @
+alt/0198 1 #Alternate S-curl
+       @
+   gb. @  
+  '  8 @    
+AboodP @
+       @
+       @
+       @
+       @
+       @
+       @
+alt/0163 4 #Alternate S-curl
+          @
+          @
+          @
+          @
+      gb. @
+     /  8 @
+   AboodP @
+   /      @
+7bf       @
+          @
+alt/0190 5 #Alternate S-curl
+          @
+          @
+          @
+          @
+          @
+      gb. @
+  _  /  8 @
+   AboodP @
+   /      @
+7bf       @
